@@ -6,6 +6,7 @@ Vous n'avez pas encore la possibilité de `push` ce code sur github, mais lorsqu
 1. Prenez une activité que vous effectuez souvent (manger, regarder la télé, etc) et faites une liste des façons dont les ordinateurs sont directement ou indirectement impliqués dans cette activité.
 
 _Réponse_
+
 Activité : Manger
 - micro-ondes
 - frigo avec écran
@@ -18,6 +19,7 @@ Activité : Manger
 2. Choisissez un métier que vous connaissez ou dont vous avez un intérêt et faire la liste des activités de ce métier qui impliquent des ordinateurs.
 
 _Réponse_
+
 Métier : Expert en Machine Learning
 - collection de données
 - Détection de maladie
@@ -29,11 +31,13 @@ Métier : Expert en Machine Learning
 3. Trouver une activité qui serait impossible sans ordinateurs
 
 _Réponse_
+
 Faire de la visioconférence
 
 4. Faire une liste de programmes/logiciels que avez utilisé directement
 
 _Réponse_
+
 - Alacritty
 - Sakura
 - Kitty
@@ -148,6 +152,7 @@ J'ai la flemme de faire la même chose pour mon téléphone et mon autre ordi.
 5. Faire une liste de 10 activités que l'on peut pratiquer sans impliquer des ordinateurs de manière directe ou indirecte. Attention c'est plus difficile que ce que vous imaginez!!
 
 _Réponse_
+
 - courir pieds nus (méthode de la course naturelle, cf Dr Marc Cucuzella)
 - manger cru grâce à une coopérative agricole gérée entièrement par des humains.
 - faire des ricochets
@@ -162,6 +167,7 @@ _Réponse_
 6. Identifier 5 tâches pour lesquels les ordinateurs ne sont pas encore utilisés aujourd'hui mais qui selon vous le seront dans l'avenir. Elaborez quelques lignes pour chacun de vos choix
 
 _Réponse_
+
 - Faire du sauvetage (cf spot BostonDynamics)
 - Des robots nourricière/baby-sitter : toujours disponible, et moins chère qu'une vraie;
 le frein psychologique disparaitra petit à petit avec les générations.
@@ -174,11 +180,13 @@ Aujourd'hui, je crois que les seuls système à faire ça le font pour des quest
 7. Expliquez en environ 100 mots pourquoi vous souhaitez ou ne souhaitez pas devenir développeur.
 
 _Réponse_
+
 Je suis passionné par les sciences depuis tout petit, mais l'informatique est le domaine qui permet d'aller le plus loin avec un minimum de matériel. C'est un domaine vaste et accessible à tous, dès l'instant où on prends le temps de comprendre. C'est également celui qui a le plus d'impact sur nos vies. Une autre particularité de l'informatique est son ouverture sur tous les autres domaines, certaines personnes voit l'arrivée de l'informatique dans leur sphère de compétence comme une chose négative, mais en fait en comprenant comment un ordinateur fonctionne, on a en réalité accès à énormément de domaines transverses.
 
 8. Pensez vous que les ordinateurs deviendront conscient un jour et pourront entrer en compétition avec les humains ? Argumentez votre position.
 
 _Réponse_
+
 Il faudrait tout d'abord donner une définition de "conscience", à mon avis passer le test de Turing n'est pas suffisant, loin de là. Contentons-nous du deuxième point de la question : entrer en compétition avec les humains.
 À vrai dire, c'est déjà le cas et des ordinateurs ont déjà remplacés pas mal de types de métiers (cf "Humans Need Not Apply"). Reformulons donc la question en : "Un ordinateur unique pourra-t-il entrer en compétition avec les humains à tous les niveaux ?".
 L'AGI (artificial general intelligence) est un domaine de recherche actif, la plupart pense apparemment qu'une solution pourrait émerger grâce à des langages comme haskell, agda, idris ou même coq, alors que d'autres ne jurent que par le connexionisme.
@@ -188,6 +196,7 @@ Personnellement, je pense que la meilleure manière d'arriver à un résultat co
 9. Combien de mémoire il faudrait pour stocker cette page de texte, sachant qu'il faut 1 octet de mémoire par caractère. Essayez de vous approcher de la réponse à environ 20%.
 
 _Réponse_
+
 Pour le fichier "rendu" sur github :
 wc -c 1665
 wc -m 1634
