@@ -198,14 +198,17 @@ Personnellement, je pense que la meilleure manière d'arriver à un résultat co
 _Réponse_
 
 Pour le fichier "rendu" sur github :
-wc -c 1665
-wc -m 1634
+- wc -c 1665
+- wc -m 1634
+
 Pour le fichier markdow brut :
-wc -c 1662
-wc -m 1631
+- wc -c 1662
+- wc -m 1631
+
 Pour la page github dans son entièreté :
 Impossible d'avoir un résultat fiable, les nouveaux comptes ont un bandeau :
 "Learn Git and GitHub without any code!
 
 Using the Hello World guide, you’ll start a branch, write comments, and open a pull request. "
+
 Ce qui n'est pas le cas pour les anciens comptes.
